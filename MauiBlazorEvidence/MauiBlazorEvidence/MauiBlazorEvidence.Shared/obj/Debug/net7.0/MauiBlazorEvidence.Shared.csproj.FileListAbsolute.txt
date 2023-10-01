@@ -1,0 +1,36 @@
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\bin\Debug\net7.0\MauiBlazorEvidence.Shared.deps.json
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\bin\Debug\net7.0\MauiBlazorEvidence.Shared.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\bin\Debug\net7.0\MauiBlazorEvidence.Shared.pdb
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.csproj.AssemblyReference.cache
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.AssemblyInfoInputs.cache
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.AssemblyInfo.cs
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.csproj.CoreCompileInputs.cache
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\refint\MauiBlazorEvidence.Shared.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.pdb
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\ref\MauiBlazorEvidence.Shared.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\bin\Debug\net7.0\MauiBlazorEvidence.Shared.deps.json
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\bin\Debug\net7.0\MauiBlazorEvidence.Shared.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\bin\Debug\net7.0\MauiBlazorEvidence.Shared.pdb
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.csproj.AssemblyReference.cache
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.GeneratedMSBuildEditorConfig.editorconfig
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.AssemblyInfoInputs.cache
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.AssemblyInfo.cs
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.csproj.CoreCompileInputs.cache
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\refint\MauiBlazorEvidence.Shared.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.pdb
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\ref\MauiBlazorEvidence.Shared.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\bin\Debug\net7.0\MauiBlazorEvidence.Shared.deps.json
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\bin\Debug\net7.0\MauiBlazorEvidence.Shared.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\bin\Debug\net7.0\MauiBlazorEvidence.Shared.pdb
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.csproj.AssemblyReference.cache
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.AssemblyInfoInputs.cache
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.AssemblyInfo.cs
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\refint\MauiBlazorEvidence.Shared.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\MauiBlazorEvidence.Shared.pdb
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Shared\obj\Debug\net7.0\ref\MauiBlazorEvidence.Shared.dll

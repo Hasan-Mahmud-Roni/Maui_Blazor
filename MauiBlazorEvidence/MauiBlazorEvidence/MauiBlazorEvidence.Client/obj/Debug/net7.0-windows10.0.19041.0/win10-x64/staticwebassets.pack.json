@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\MauiBlazorEvidence.Client.styles.css",
+      "PackagePath": "staticwebassets\\MauiBlazorEvidence.Client.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "PackagePath": "staticwebassets\\css\\open-iconic"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\open-iconic\\README.md",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\USSL\\Downloads\\MauiBlazorEvidence\\MauiBlazorEvidence\\MauiBlazorEvidence.Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.MauiBlazorEvidence.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.MauiBlazorEvidence.Client.props",
+      "PackagePath": "build\\MauiBlazorEvidence.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.MauiBlazorEvidence.Client.props",
+      "PackagePath": "buildMultiTargeting\\MauiBlazorEvidence.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.MauiBlazorEvidence.Client.props",
+      "PackagePath": "buildTransitive\\MauiBlazorEvidence.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

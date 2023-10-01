@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "9Pw5LNOFMkLgTFJyBL1GrDC98J5vpWOFJwIJU71uNpU=",
+  "Source": "MauiBlazorEvidence.Server",
+  "BasePath": "_content/MauiBlazorEvidence.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,234 @@
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\appsettings.Development.json
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\appsettings.json
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.exe
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.deps.json
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.runtimeconfig.json
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.pdb
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Azure.Core.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Azure.Identity.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Humanizer.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.CodeDom.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Shared.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Shared.pdb
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.csproj.AssemblyReference.cache
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.AssemblyInfoInputs.cache
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.AssemblyInfo.cs
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.csproj.CoreCompileInputs.cache
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.MvcApplicationPartsAssemblyInfo.cs
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.MvcApplicationPartsAssemblyInfo.cache
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.MauiBlazorEvidence.Server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.build.MauiBlazorEvidence.Server.props
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MauiBlazorEvidence.Server.props
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MauiBlazorEvidence.Server.props
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets.build.json
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets.development.json
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\scopedcss\bundle\MauiBlazorEvidence.Server.styles.css
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.csproj.CopyComplete
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\refint\MauiBlazorEvidence.Server.dll
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.pdb
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.genruntimeconfig.cache
+F:\Core_Course_C#\Maui\New folder (3)\New folder\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\ref\MauiBlazorEvidence.Server.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.csproj.AssemblyReference.cache
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.GeneratedMSBuildEditorConfig.editorconfig
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.AssemblyInfoInputs.cache
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.AssemblyInfo.cs
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.csproj.CoreCompileInputs.cache
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.MvcApplicationPartsAssemblyInfo.cs
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.MvcApplicationPartsAssemblyInfo.cache
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\refint\MauiBlazorEvidence.Server.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.pdb
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\appsettings.Development.json
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\appsettings.json
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.exe
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.deps.json
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.runtimeconfig.json
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.pdb
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Azure.Core.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Azure.Identity.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Humanizer.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.CodeDom.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Shared.dll
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Shared.pdb
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.MauiBlazorEvidence.Server.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.build.MauiBlazorEvidence.Server.props
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MauiBlazorEvidence.Server.props
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MauiBlazorEvidence.Server.props
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets.build.json
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets.development.json
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\scopedcss\bundle\MauiBlazorEvidence.Server.styles.css
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.csproj.CopyComplete
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.genruntimeconfig.cache
+F:\Core_Course_C#\Maui\New folder (3)\Address\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\ref\MauiBlazorEvidence.Server.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\appsettings.json
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.exe
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.deps.json
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.runtimeconfig.json
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Server.pdb
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Shared.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\bin\Debug\net7.0\MauiBlazorEvidence.Shared.pdb
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.csproj.AssemblyReference.cache
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.AssemblyInfoInputs.cache
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.AssemblyInfo.cs
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.MauiBlazorEvidence.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.build.MauiBlazorEvidence.Server.props
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.MauiBlazorEvidence.Server.props
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.MauiBlazorEvidence.Server.props
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\scopedcss\bundle\MauiBlazorEvidence.Server.styles.css
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.csproj.CopyComplete
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\refint\MauiBlazorEvidence.Server.dll
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.pdb
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\MauiBlazorEvidence.Server.genruntimeconfig.cache
+C:\Users\USSL\Downloads\MauiBlazorEvidence\MauiBlazorEvidence\MauiBlazorEvidence.Server\obj\Debug\net7.0\ref\MauiBlazorEvidence.Server.dll
